@@ -1,1 +1,5 @@
-window.onload
+window.onload=function(){
+	function aa(){
+		
+	}
+}
